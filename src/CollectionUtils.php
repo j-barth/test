@@ -1,6 +1,6 @@
 <?php
 
-namespace Util;
+namespace Jbarth;
 
 abstract class CollectionUtils
 {
