@@ -1,0 +1,12 @@
+{
+    "name": "jbarthes/test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jbarth",
+            "email": "jbarth@email.com"
+        }
+    ],
+    "require": {}
+}
