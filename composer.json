@@ -1,5 +1,10 @@
 {
     "name": "jbarth/test",
+    "autoload": {
+        "psr-4": {
+            "Jbarth\\": "src/"
+        }
+    },
     "type": "library",
     "license": "MIT",
     "authors": [
